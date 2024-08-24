@@ -12,3 +12,9 @@ Lua++ is a Lua superset/based language developed by matrixxdev/matrix
 ## Other stuff
 * Compatibility with rust and c
     * You can use c or rust to manually extend Lua++ or execute c/rust code directly in Lua++
+
+# Credits
+Full credit to Lua and its creators.
+
+![image[(![image](https://github.com/user-attachments/assets/a05c3770-36fa-4e73-9caa-3a4f463aa3d1)
+) ![image](https://github.com/user-attachments/assets/a9297796-510e-439d-ae09-6e09fe573cf0)
