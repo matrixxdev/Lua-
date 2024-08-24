@@ -1,5 +1,5 @@
 # Lua++
-*Lua++* is a Lua superset/based language developed by matrixxdev/matrix 
+Lua++ is a Lua superset/based language developed by matrixxdev/matrix 
 
 ## Features
 * Extended syntax
